@@ -10,5 +10,5 @@ Por fim, o programa deve subtrair a quantidade de dano da quantidade de pontos d
 
 
 
-#### Deploy - https://werricsson.github.io/Exercicio-JavaScript/
+#### Deploy - https://werricsson-santos.github.io/Exercicio-JavaScript/
 
